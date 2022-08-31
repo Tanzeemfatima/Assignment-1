@@ -151,7 +151,45 @@ b {
     background-color: darksalmon;
 }
 
+.flexible-container {
+    display: flex;
+    margin-top: 300px;
+}
+
+.half-width {
+    width: 80%;
+    padding-left: 50px;
+    padding-right: 10px;
+    margin-left: 4%;
+    margin-right: 5%;
+
+}
+
+.para {
+    margin-bottom: 100px;
+}
+
+.half-width img {
+    width: 500px;
+    padding-left: 5%;
+    padding-right: 70%;
+    padding-bottom: 10%;
+    margin-bottom: 25%;
+}
+
+.link-button1 {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: black;
+    font-weight: 600;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-top: 250px;
+    margin-right: 120px;
+}
+
 footer {
+    width: 100%;
     padding-top: 5px;
     padding-bottom: 5px;
     text-align: center;
