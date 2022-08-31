@@ -188,6 +188,18 @@ b {
     margin-right: 120px;
 }
 
+.last-part {
+    text-decoration-line: underline;
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 50%;
+    margin-bottom: 100px;
+}
+
+.bonus {
+    display: inline-block;
+}
+
 footer {
     width: 100%;
     padding-top: 5px;
